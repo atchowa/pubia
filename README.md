@@ -23,7 +23,6 @@ Je transforme des idées simples en **publicités visuelles dignes de Netflix / 
 
 🎬 Concept : Montrer la frustration client → solution → confiance
 📌 Résultat : Vidéo immersive avec narration émotionnelle et transformation visuelle
-🔗 https://github.com/tonprofil/plein-sud-ad
 
 ---
 
@@ -31,7 +30,6 @@ Je transforme des idées simples en **publicités visuelles dignes de Netflix / 
 
 🎬 Concept : Accès direct usine + réduction + logistique complète
 📌 Résultat : Publicité premium avec visuels Chine/Afrique et effet “marque internationale”
-🔗 https://github.com/tonprofil/kami-groupe-ad
 
 ---
 
@@ -39,7 +37,6 @@ Je transforme des idées simples en **publicités visuelles dignes de Netflix / 
 
 🎬 Concept : Storytelling africain cinématographique
 📌 Résultat : Scènes détaillées + prompts IA + narration immersive
-🔗 https://github.com/tonprofil/3d-animation
 
 ---
 
@@ -47,7 +44,6 @@ Je transforme des idées simples en **publicités visuelles dignes de Netflix / 
 
 🎬 Concept : Captation rapide + conversion
 📌 Résultat : Hooks puissants + vidéos courtes optimisées
-🔗 https://github.com/tonprofil/ai-social-ads
 
 ---
 
